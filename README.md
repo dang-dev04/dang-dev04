@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hai Dang</h1>
-<h3 align="center">A frontend developer </h3>
+<h3 align="center">A frontend developer / Business Analyst </h3>
 
 - 📫 How to reach me **haidangluong1702@gmail.com**
 
